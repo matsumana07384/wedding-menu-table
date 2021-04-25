@@ -1,2 +1,13 @@
 # General
 .DS_Store
+
+# node_modules
+node_modules/
+
+# ファイルのパターン一致でコンパイルなどで生成したファイルを指定する場合
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
