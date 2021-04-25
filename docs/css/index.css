@@ -7,11 +7,14 @@ html {
   margin: 0;
   padding: 0;
 }
-.menu-table {
-  border: 4px double #ddd;
-  margin: 40px 20px;
-}
 
+.main {
+  border: 4px double #ddd;
+  margin: 20px 20px;
+}
+.menu-table {
+  margin: 20px;
+}
 .menu-table-list {
   list-style: none;
 }
