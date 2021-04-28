@@ -96,4 +96,4 @@
   #book-simple-open:checked ~ .book-simple-switch:after {
     content: attr(data-book-simple-shut);
   }
-  
+ 
