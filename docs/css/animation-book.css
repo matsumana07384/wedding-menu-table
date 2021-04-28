@@ -76,7 +76,7 @@
   /* ボタン */
   .book-simple-switch {
     display: block;
-    width: 6em;
+    width: 130px;
     margin-right: auto;
     margin-left: auto;
     margin-bottom: 20px; /* 開閉ボタンを画面下に配置したので */
