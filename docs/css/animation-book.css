@@ -39,7 +39,7 @@
             transition-property: transform;
     -webkit-transform-origin: 0 0;
             transform-origin: 0 0;
-    background-color: #249690;
+    background-color: #e95464;
     box-shadow: 0 2px 0 0 #124f4b;
   }
   .book-simple:hover::before, #book-simple-open:checked ~ #book-simple-contents::before {
@@ -56,7 +56,7 @@
     transition: box-shadow 1.8s ease;
     transition-delay: .3s;
     background-color: #e2e1dc;
-    box-shadow: 200px 0 1px 0 rgba(0,0,0,.4) inset,-2px 0 0 0 #249690;
+    box-shadow: 200px 0 1px 0 rgba(0,0,0,.4) inset,-2px 0 0 0 #e95464;
   }
   .book-simple .book-inbox:after {
     position: absolute;
@@ -70,7 +70,7 @@
     background-color: #afada3;
   }
   .book-simple:hover .book-inbox, #book-simple-open:checked ~ #book-simple-contents .book-inbox {
-    box-shadow: -0 0 8px 0 rgba(0,0,0,.0) inset,-2px 0 0 0 #249690;
+    box-shadow: -0 0 8px 0 rgba(0,0,0,.0) inset,-2px 0 0 0 #e95464;
   }
   
   /* ボタン */
