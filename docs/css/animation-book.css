@@ -82,10 +82,12 @@
     margin-bottom: 20px; /* 開閉ボタンを画面下に配置したので */
     padding: .5em;
     text-align: center;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    background-color: #fff;
-    box-shadow: 0 5px 0 0 #999;
+    color: #ffffff;
+    border: #ffffff dashed 1px;
+    box-shadow: 0 0 0 0.2em #e95464;
+    border-radius: 2.5px;
+    background-color: #e95464;
+    cursor: pointer;
   }
   input[name='book-simple-switch'] {
     display: none;
