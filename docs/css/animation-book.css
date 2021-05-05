@@ -52,10 +52,10 @@
     position: relative;
     box-sizing: border-box;
     height: 100%;
-    padding: 10px;
+    padding: 3px;
     transition: box-shadow 1.8s ease;
     transition-delay: .3s;
-    background-color: #e2e1dc;
+    background: linear-gradient(45deg, #B67B03 0%, #DAAF08 45%, #FEE9A0 70%, #DAAF08 85%, #B67B03 90% 100%);
     box-shadow: 200px 0 1px 0 rgba(0,0,0,.4) inset,-2px 0 0 0 #e95464;
   }
   .book-simple .book-inbox:after {
