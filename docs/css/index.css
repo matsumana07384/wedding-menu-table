@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background-color: rgba(255, 255, 255, 1); 
+  background-color: rgba(255, 255, 255, 1);
 }
 
 .main {
@@ -37,4 +37,10 @@ body {
 .menu-table-list-item-content__supplement {
   display: block;
   font-size: 0.8em;
+}
+.menu-table-footer {
+  margin-top: 50px;
+}
+.menu-table-footer__text {
+  font-size: 1em;
 }
