@@ -17,21 +17,22 @@ body {
 }
 
 .menu-table {
-  padding: 20px;
+  padding: 30px 20px;
   background-color: rgba(255, 255, 255, 1);
 }
 
 .menu-table-list {
+  margin-top: 50px;
   list-style: none;
 }
 
 .menu-table-list-item__title {
   font-size: 1.3em;
-  margin-top: 15px;
+  margin-top: 20px;
 }
 
 .menu-table-list-item-content {
-  margin-top: 3px;
+  margin-top: 10px;
 }
 
 .menu-table-list-item-content__supplement {
