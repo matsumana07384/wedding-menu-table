@@ -33,11 +33,13 @@ body {
 
 .menu-table-list-item-content {
   margin-top: 10px;
+  line-height: 2em;
 }
 
 .menu-table-list-item-content__supplement {
   display: block;
   font-size: 0.8em;
+  line-height: 1.5em;
 }
 
 .menu-table-footer {
